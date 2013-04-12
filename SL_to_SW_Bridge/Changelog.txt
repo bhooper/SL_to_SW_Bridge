@@ -1,0 +1,12 @@
+﻿Version 0.2
+1/31/2013 - Forked forms out of original projects into separate compiled .DLL
+1/31/2013 - Changed to .NET framework 3.5 for compatibility to both SolidWorks and Enterprise PDM
+
+Version 0.3
+3/21/2013 - Commented out message spam that simulated entry
+
+Version 0.3.1
+3/21/2013 - Renamed column names to more accurately reflect source
+
+Version 0.3.2
+3/26/2013 - Corrected SQL username/password
